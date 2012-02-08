@@ -7,9 +7,10 @@ Gem::Specification.new do |s|
   s.version     = Interfax2::VERSION
   s.authors     = ["Jon Canady"]
   s.email       = ["jcanady@innova-partners.com"]
-  s.homepage    = ""
-  s.summary     = %q{TODO: Write a gem summary}
-  s.description = %q{TODO: Write a gem description}
+  s.homepage    = "http://github.com/InnovaPartners/interfax2"
+  s.summary     = "Interact with the Interfax SOAP API."
+  s.description = "Handles a subset of the Interfax SOAP API for sending and receiving faxes over the internet. 
+  See http://interfax.net for details on the Interfax service."
 
   s.rubyforge_project = "interfax2"
 
